@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\bin\Debug\Praktika7.exe.config
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\bin\Debug\Praktika7.exe
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\bin\Debug\Praktika7.pdb
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\App.g.cs
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7_MarkupCompile.cache
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7_MarkupCompile.lref
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.g.resources
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.Properties.Resources.resources
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.exe
+C:\Users\User\Desktop\goba\Praktika7\Praktika7\obj\Debug\Praktika7.pdb
